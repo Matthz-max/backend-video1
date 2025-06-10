@@ -6,13 +6,24 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 
 ## 🚀 Tecnologias Utilizadas
 
-- ✅ Java 21  
-- ✅ Spring Boot 3.5.0  
-- ✅ Spring Web (API REST)  
+- ✅ Java 21
+- ✅ Eclipse ide
+- ✅ Postman
+- ✅ Workbeach
+- ✅ Lombok  
+- ✅ Maven  
+
+---
+
+---
+
+##  Dependecias
+
+- ✅ Spring Boot DevTools
+- ✅ Spring Web  
 - ✅ Spring Data JPA  
 - ✅ MySQL Driver  
 - ✅ Lombok  
-- ✅ Maven  
 
 ---
 
