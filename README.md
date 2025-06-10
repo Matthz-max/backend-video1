@@ -23,7 +23,8 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 - [Java 21+](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)  
 - [Maven](https://maven.apache.org/)  
 - [MySQL Server](https://dev.mysql.com/downloads/installer/)  
-- [Lombok](https://projectlombok.org/download)  
+- [Lombok](https://projectlombok.org/download)
+- [Workbeach](https://dev.mysql.com/downloads/workbench/)
 - IDE como **Eclipse** ou **IntelliJ**
 
 ---
