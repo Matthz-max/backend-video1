@@ -44,7 +44,7 @@ src
 │       ├── application.properties
 │       └── static/
 └── test
-
+```
 🧪 Testes com Postman
 Método GET
 <img src="https://github.com/user-attachments/assets/249cc95c-8302-471f-b5b2-3ee4bdd0fcb5" alt="GET" width="600"/>
@@ -56,3 +56,4 @@ Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1
 
 👨‍💻 Desenvolvedor
 Feito com 💻 por Matheus Serafim da Silva
+ 
