@@ -50,7 +50,6 @@ Método GET
 <img src="https://github.com/user-attachments/assets/249cc95c-8302-471f-b5b2-3ee4bdd0fcb5" alt="GET" width="400"/>
 Método POST
 <img src="https://github.com/user-attachments/assets/316d3c3c-065c-4be4-849c-076b8fb7a1e7" alt="POST" width="400"/>
-
 📚 Referência
 Fernanda Kipper | Dev
 Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1
