@@ -30,8 +30,8 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 ## ⚙️ Como rodar o projeto localmente
 ### Pré-requisitos
 
-- [Postman ou outra testador de Requisições] 
-- [Projeto rodando]
+- Postman ou outra testador de Requisições
+- Projeto rodando
 - [Lombok](https://projectlombok.org/download)
 - [Workbeach](https://dev.mysql.com/downloads/workbench/)
 - IDE como **Eclipse** ou **IntelliJ**
