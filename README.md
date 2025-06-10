@@ -54,6 +54,9 @@ src
 ```
 <img width="922" alt="image" src="https://github.com/user-attachments/assets/4a623077-a95f-4afe-bcaf-04cdb288810e" />
 
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/0467f277-aeab-4933-839d-c31c604e47cb" />
+
+
 📚 Referência
 Fernanda Kipper | Dev
 Criando Aplicação Fullstack do Zero com Java Spring e React - Parte 1
