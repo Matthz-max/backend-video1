@@ -15,7 +15,7 @@ import com.example.cardapio.dto.FoodResponseDTO;
 import com.example.cardapio.entity.Food;
 import com.example.cardapio.repository.FoodRepository;
 
-
+//anotação Rest e Request 
 @RestController
 @RequestMapping("food")
 public class FoodController {
@@ -23,7 +23,9 @@ public class FoodController {
 	@Autowired
 	private FoodRepository repository;
 
+	// Essa anotação de cross faz como que o Post possa ser feito de qualquer endereço
     @CrossOrigin(origins = "*", allowedHeaders = "*")
+    
 	  @PostMapping
 	    public void saveFood(@RequestBody FoodRequestDTO data){
 	        Food foodData = new Food(data);
@@ -31,7 +33,9 @@ public class FoodController {
 	        return;
 	    }
 
+	// Essa anotação de cross faz como que o Get possa ser feito de qualquer endereço
     @CrossOrigin(origins = "*", allowedHeaders = "*")
+    
 	 @GetMapping
 	    public List<FoodResponseDTO> getAll(){
 
