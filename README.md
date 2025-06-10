@@ -38,7 +38,7 @@ Este é o backend do projeto **Cardápio Digital**, desenvolvido com **Spring Bo
 
 ---
 
-## 📁 Estrutura de Pastas (exemplo)
+## 📁 Estrutura de Pastas 
 
 ```plaintext
 src
